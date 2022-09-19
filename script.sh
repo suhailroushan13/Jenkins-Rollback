@@ -1,3 +1,4 @@
+#Run This Script In Your GitHub Repository 
 git pull origin master
 git log --oneline > log.txt
 cat log.txt
